@@ -21,6 +21,7 @@ for (const repository of repositories) {
 
 assert.match(readme, /id=3789612268/);
 assert.match(readme, /id=3789887641/);
+assert.match(readme, /id=3790696431/);
 assert.match(readme, /independent Git repository/);
 assert.match(readme, /intentionally not Git submodules/);
 assert.match(readme, /Source tests, installed-file checks, and in-game verification/);

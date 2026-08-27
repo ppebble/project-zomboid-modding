@@ -19,7 +19,7 @@ provides one place to discover them without merging unrelated source trees.
 | --- | --- | --- |
 | [2D Wardrobe Skin Adapter Fix](https://github.com/ppebble/2dw-skin-adapter-fix) | Replaces broken 2Dimension Wardrobe skin-adapter rendering with safe native skin-tone selection. | Source repository |
 | [Lifestyle + 2D Wardrobe Shower Compatibility](https://github.com/ppebble/lifestyle-2dw-shower-compatibility) | Keeps selected 2Dimension Wardrobe appearance slots equipped during Lifestyle baths and showers. | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3789887641) |
-| [Take A Bath And Shower + 2D Wardrobe Compatibility](https://github.com/ppebble/tabas-2dw-shower-compatibility) | Uses TABAS's exclusion API to retain selected 2Dimension Wardrobe appearance slots while ordinary clothing follows TABAS's native flow. | Workshop package prepared |
+| [Take A Bath And Shower + 2D Wardrobe Compatibility](https://github.com/ppebble/tabas-2dw-shower-compatibility) | Uses TABAS's exclusion API to retain selected 2Dimension Wardrobe appearance slots while ordinary clothing follows TABAS's native flow. | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3790696431) |
 | [CleanUI 42.20.4 Config Loader Fix](https://github.com/ppebble/cleanui-42-20-4-config-loader-fix) | Temporary compatibility patch for the missing CleanUI config loader in the referenced 42.20.4 update. | Temporary source release |
 
 ## Project rules
