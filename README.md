@@ -17,7 +17,7 @@
 
 | 프로젝트 | 호환 범위 | 배포처 |
 | --- | --- | --- |
-| Guns of Marz: Attachment Workbench | Guns of Marz와 바닐라 총기의 부착물 호환성 확인·예약·순차 설치를 위한 전용 작업대입니다. 인벤토리와 인접 보관함을 함께 검색합니다. | 소스 공개 및 Steam Workshop 게시 준비 중 |
+| [Guns of Marz: Attachment Workbench](https://github.com/ppebble/guns-of-marz-attachment-workbench) | Guns of Marz와 바닐라 총기의 부착물 호환성 확인·예약·순차 설치를 위한 전용 작업대입니다. 인벤토리와 인접 보관함을 함께 검색합니다. | [소스 저장소](https://github.com/ppebble/guns-of-marz-attachment-workbench) · Steam Workshop 게시 준비 중 |
 
 ## 호환성 모드
 
