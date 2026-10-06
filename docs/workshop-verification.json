@@ -1,0 +1,62 @@
+{
+  "checkedAt": "2026-10-05T23:54:38.9741210Z",
+  "source": "https://api.steampowered.com/ISteamRemoteStorage/GetPublishedFileDetails/v1/",
+  "items": [
+    {
+      "publishedfileid": "3798555914",
+      "result": 1,
+      "title": "Guns of Marz: Attachment Workbench",
+      "visibility": 0,
+      "consumer_app_id": 108600
+    },
+    {
+      "publishedfileid": "3812917260",
+      "result": 1,
+      "title": "Action Time Reducer [B42.21]",
+      "visibility": 0,
+      "consumer_app_id": 108600
+    },
+    {
+      "publishedfileid": "3808856966",
+      "result": 1,
+      "title": "[SP/MP] Take A Bath And Shower + SCT Compatibility",
+      "visibility": 0,
+      "consumer_app_id": 108600
+    },
+    {
+      "publishedfileid": "3255149948",
+      "result": 9,
+      "title": null,
+      "visibility": null,
+      "consumer_app_id": null
+    },
+    {
+      "publishedfileid": "3797737398",
+      "result": 1,
+      "title": "[SP/MP]Knox Extraction from Louisville Bateman Office Building",
+      "visibility": 0,
+      "consumer_app_id": 108600
+    },
+    {
+      "publishedfileid": "3789612268",
+      "result": 1,
+      "title": "PZ AI Translation Generator",
+      "visibility": 0,
+      "consumer_app_id": 108600
+    },
+    {
+      "publishedfileid": "3789887641",
+      "result": 1,
+      "title": "Lifestyle + 2D Wardrobe Shower Compatibility",
+      "visibility": 0,
+      "consumer_app_id": 108600
+    },
+    {
+      "publishedfileid": "3790696431",
+      "result": 1,
+      "title": "Take A Bath And Shower + 2D Wardrobe Compatibility",
+      "visibility": 0,
+      "consumer_app_id": 108600
+    }
+  ]
+}

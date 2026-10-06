@@ -1,0 +1,132 @@
+[
+  {
+    "slug": "pz-ai-translation-generator",
+    "name": "PZ AI Translation Generator",
+    "category": "translation",
+    "summary": "원본을 수정하지 않고 별도 로컬 번역 팩을 만드는 B42 번역 도구입니다.",
+    "repository": "https://github.com/ppebble/pz-ai-translation-generator",
+    "sourceVisibility": "public",
+    "state": "active",
+    "workshop": { "id": "3789612268", "access": "public" }
+  },
+  {
+    "slug": "action-time-reducer",
+    "name": "Action Time Reducer",
+    "category": "utility",
+    "summary": "B42.21용 0.5.1. 76개 행동별 샌드박스 옵션으로 시간을 조정합니다. 멀티 아이템 이동은 운영자의 별도 수동 서버 패치가 필요합니다.",
+    "repository": "https://github.com/ppebble/action-time-reducer",
+    "sourceVisibility": "public",
+    "state": "active",
+    "workshop": { "id": "3812917260", "access": "public" }
+  },
+  {
+    "slug": "guns-of-marz-attachment-workbench",
+    "name": "Guns of Marz: Attachment Workbench",
+    "category": "weapons",
+    "summary": "GoM 신형/Old Version과 GoM이 활성화된 바닐라 총기의 부품 확인·예약·순차 설치 작업대입니다. 인벤토리와 인접 보관함을 검색합니다.",
+    "repository": "https://github.com/ppebble/guns-of-marz-attachment-workbench",
+    "sourceVisibility": "public",
+    "state": "active",
+    "workshop": { "id": "3798555914", "access": "public" }
+  },
+  {
+    "slug": "knox-escape-mode",
+    "name": "Knox Extraction",
+    "category": "scenario",
+    "summary": "군용 라디오·릴레이 수리·옥상 신호탄과 방어를 통해 탈출하는 협동 생존 시나리오입니다. 모드 ID는 KnoxEscapeMode를 유지합니다.",
+    "repository": "https://github.com/ppebble/knox-escape-mode",
+    "sourceVisibility": "public",
+    "state": "active",
+    "workshop": { "id": "3797737398", "access": "public" }
+  },
+  {
+    "slug": "2dw-skin-adapter-fix",
+    "name": "2D Wardrobe Skin Adapter Fix",
+    "category": "compatibility",
+    "summary": "2Dimension Wardrobe와 VSGirlBody SFW 조합에서 스킨 어댑터를 피부색 선택으로 처리하는 제한된 호환 패치입니다.",
+    "repository": "https://github.com/ppebble/2dw-skin-adapter-fix",
+    "sourceVisibility": "public",
+    "state": "active",
+    "workshop": null
+  },
+  {
+    "slug": "lifestyle-2dw-shower-compatibility",
+    "name": "Lifestyle + 2D Wardrobe Shower Compatibility",
+    "category": "compatibility",
+    "summary": "Lifestyle 목욕·샤워에서 2DW 얼굴·머리카락·외형·피부 슬롯을 유지합니다. TABAS가 목욕을 담당하면 TABAS용 패치를 선택합니다.",
+    "repository": "https://github.com/ppebble/lifestyle-2dw-shower-compatibility",
+    "sourceVisibility": "public",
+    "state": "active",
+    "workshop": { "id": "3789887641", "access": "public" }
+  },
+  {
+    "slug": "tabas-2dw-shower-compatibility",
+    "name": "Take A Bath And Shower + 2D Wardrobe Compatibility",
+    "category": "compatibility",
+    "summary": "TABAS 목욕·샤워에서 2DW 얼굴·머리카락·외형·피부 슬롯을 유지하고 일반 의류는 원래 흐름을 따릅니다.",
+    "repository": "https://github.com/ppebble/tabas-2dw-shower-compatibility",
+    "sourceVisibility": "public",
+    "state": "active",
+    "workshop": { "id": "3790696431", "access": "public" }
+  },
+  {
+    "slug": "tabas-sct-shower-compatibility",
+    "name": "Take A Bath And Shower + SCT Compatibility",
+    "category": "compatibility",
+    "summary": "TABAS 목욕·샤워에서 SCT Guardian의 지정된 캐릭터 몸체 8종을 유지합니다. 일반 의류와 액세서리는 원래 처리를 따릅니다.",
+    "repository": "https://github.com/ppebble/tabas-sct-shower-compatibility",
+    "sourceVisibility": "public",
+    "state": "active",
+    "workshop": { "id": "3808856966", "access": "public" }
+  },
+  {
+    "slug": "tabas-lg-plumbing-compatibility",
+    "name": "TABAS + LG Extended Plumbing Compatibility",
+    "category": "compatibility",
+    "summary": "0.1.6. TABAS 욕조·샤워와 LG 건물 급수망을 연결합니다. 멀티에서 통 10개/6000L 인식 확인, 창작마당 등록 준비 완료입니다.",
+    "repository": "https://github.com/ppebble/tabas-lg-plumbing-compatibility",
+    "sourceVisibility": "private",
+    "state": "active",
+    "workshop": null
+  },
+  {
+    "slug": "cleanui-42-20-4-config-loader-fix",
+    "name": "CleanUI 42.20.4 Config Loader Fix",
+    "category": "temporary",
+    "summary": "특정 CleanUI 42.20.4 업데이트에서 누락된 설정 로더용 임시 패치입니다. 원본에서 해결된 경우 제거하며 최신 버전 필요성은 별도 확인합니다.",
+    "repository": "https://github.com/ppebble/cleanui-42-20-4-config-loader-fix",
+    "sourceVisibility": "public",
+    "state": "active",
+    "workshop": null
+  },
+  {
+    "slug": "soto-b42-20-emote-compatibility",
+    "name": "SOTO B42.20 Emote Compatibility",
+    "category": "temporary",
+    "summary": "SOTO MP 패치와 B42.20의 Q 메뉴 제스처 정의 차이를 보완하는 임시 로컬 패치입니다. 최신 원본에서의 필요성은 별도 확인합니다.",
+    "repository": "https://github.com/ppebble/soto-b42-20-emote-compatibility",
+    "sourceVisibility": "private",
+    "state": "active",
+    "workshop": null
+  },
+  {
+    "slug": "simple-suppressors-gom-compatibility",
+    "name": "Simple Suppressors + Guns of Marz Visual Compatibility",
+    "category": "history",
+    "summary": "Simple Suppressors 소음기의 GoM 외형 매핑 패치 0.1.0입니다. 로컬 작업·설치 폴더는 removed-20260919로 보관됐으며 현재 서버 목록에는 없습니다. 원본 통합 여부는 확인되지 않았습니다.",
+    "repository": "https://github.com/ppebble/simple-suppressors-gom-compatibility",
+    "sourceVisibility": "public",
+    "state": "historical",
+    "workshop": null
+  },
+  {
+    "slug": "true-music-addon-lsm03",
+    "name": "True Music Addon: LSM03",
+    "category": "history",
+    "summary": "기존 로컬 Workshop 업로드 자료에 남아 있는 음악 애드온입니다. 등록 ID는 확인되지만 현재 공개 접근은 확인되지 않았으며 Git 저장소는 이 작업공간에서 찾지 못했습니다.",
+    "repository": null,
+    "sourceVisibility": "none",
+    "state": "historical",
+    "workshop": { "id": "3255149948", "access": "unverified" }
+  }
+]
