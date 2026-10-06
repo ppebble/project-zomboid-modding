@@ -9,7 +9,7 @@ const readme = fs.readFileSync(path.join(root, "README.md"), "utf8");
 const catalog = JSON.parse(fs.readFileSync(path.join(root, "catalog.json"), "utf8"));
 const evidence = JSON.parse(fs.readFileSync(path.join(root, "docs/workshop-verification.json"), "utf8"));
 const bySlug = new Map(catalog.map((entry) => [entry.slug, entry]));
-const categories = new Set(["translation", "utility", "weapons", "scenario", "compatibility", "temporary", "history"]);
+const categories = new Set(["translation", "utility", "weapons", "scenario", "sports", "compatibility", "temporary", "history"]);
 assert.equal(bySlug.size, catalog.length, "Project slugs must be unique");
 assert.ok(Number.isFinite(Date.parse(evidence.checkedAt)), "Steam evidence needs a dated snapshot");
 assert.equal(evidence.source, "https://api.steampowered.com/ISteamRemoteStorage/GetPublishedFileDetails/v1/");

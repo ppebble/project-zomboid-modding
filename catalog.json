@@ -1,5 +1,15 @@
 [
   {
+    "slug": "playable-tennis",
+    "name": "Playable Tennis",
+    "category": "sports",
+    "summary": "B42.20+ 플레이어 1대1 테니스와 자유 벽치기 모드입니다. AI 상대 없이 스포츠용 라켓·커서 조준을 사용하며 개발·플레이테스트 중입니다. 최신 모션과 2인 멀티 실기 검증은 진행 전입니다.",
+    "repository": "https://github.com/ppebble/playable-tennis",
+    "sourceVisibility": "public",
+    "state": "active",
+    "workshop": null
+  },
+  {
     "slug": "pz-ai-translation-generator",
     "name": "PZ AI Translation Generator",
     "category": "translation",
